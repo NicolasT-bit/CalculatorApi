@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Calculator_API.Controllers;
-
-public class CalculatorController : Controller
+namespace Calculator_API.Controllers
 {
-    // GET
-    public IActionResult Index()
+    [Route("api/[controller]")]
+    [ApiController] 
+    public class CalculatorController : Controller
     {
-        return View();
+        
     }
+
 }
