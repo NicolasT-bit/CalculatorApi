@@ -1,0 +1,28 @@
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\appsettings.json
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\Calculator API.staticwebassets.endpoints.json
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\Calculator API.exe
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\Calculator API.deps.json
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\Calculator API.runtimeconfig.json
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\Calculator API.dll
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\Calculator API.pdb
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.csproj.AssemblyReference.cache
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.AssemblyInfoInputs.cache
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.AssemblyInfo.cs
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.csproj.CoreCompileInputs.cache
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\scopedcss\bundle\Calculator API.styles.css
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculat.1424276D.Up2Date
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.dll
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\refint\Calculator API.dll
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.pdb
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\Calculator API.genruntimeconfig.cache
+C:\Users\tineo\RiderProjects\Calculator API\Calculator API\obj\Debug\net9.0\ref\Calculator API.dll
