@@ -6,7 +6,12 @@ namespace Calculator_API.Controllers
     [ApiController] 
     public class CalculatorController : Controller
     {
-        
+        [HttpGet("sum")]
+        public IActionResult GetSum([FromQuery] int a, [FromQuery] int b)
+        {
+            var result = a + b;
+            return Ok(new { a, b, result });
+        }
     }
 
 }
